@@ -2197,39 +2197,39 @@ staxel.nightTransition.Line8=Tipp: Pflanzen, die zum Pflücken bereit sind, habe
 //[Reference] 'Tip: Play fetch with your pets by holding a ball, interacting with your pets, and then throwing the ball'
 staxel.nightTransition.Line9=Tipp: Spiele „Hol den Ball“ mit deinen Haustieren, indem du einen Ball hältst, mit deinen Haustieren interagierst und dann den Ball wirfst.
 //TODO Translate [Reference] 'Tip: Use a pickaxe to unhoe dirt'
-staxel.nightTransition.Line10=
+staxel.nightTransition.Line10=Tipp: Benutze die Spitzhacke um ein umgegrabenes Feld wieder zu ebnen.
 //TODO Translate [Reference] 'Tip: A building sign's region only matters for its requirements. Feel free to build beyond it!'
 staxel.nightTransition.Line11=
 //TODO Translate [Reference] 'Tip: Activating an empty crafting station will re-place the last craft's ingredients'
 staxel.nightTransition.Line12=
 //TODO Translate [Reference] 'Tip: A table saw will run automatically, but it's slower than doing it yourself'
-staxel.nightTransition.Line13=
+staxel.nightTransition.Line13=Tipp: Die Tischsäge sägt automatisch für dich, jedoch bist du schneller wenn du selber Hand anlegst.
 //TODO Translate [Reference] 'Tip: Buy a renaming form from the town hall to rename your animals'
-staxel.nightTransition.Line14=
+staxel.nightTransition.Line14=Tipp: In der Stadthalle kannst du ein Umbenennungsformular kaufen um deine Tiere einen anderen Namen zu geben.
 //TODO Translate [Reference] 'Tip: The village holds festivals on special days'
-staxel.nightTransition.Line15=
+staxel.nightTransition.Line15=Tipp: An besonderen Tagen werden Festlichkeiten im Dorf veranstaltet.
 //TODO Translate [Reference] 'Tip: Buy a shipping station and catalogue to access a huge number of items!'
-staxel.nightTransition.Line16=
+staxel.nightTransition.Line16=Tipp: Du erhälst Zugang zu viel mehr Gegenständen, wenn du dir eine Lieferstation und ein Katalog kaufst!
 //TODO Translate [Reference] 'Tip: Cooked food is always worth more than its ingredients'
-staxel.nightTransition.Line17=
+staxel.nightTransition.Line17=Tipp: Zubereitetes Essen ist immer mehr Wert wie seine Zutaten slebst.
 //TODO Translate [Reference] 'Tip: You can sell an item back to a store, just place it back where you bought it from'
-staxel.nightTransition.Line18=
+staxel.nightTransition.Line18=Tipp: Du kannst einen gekauften Gegenstand im Laden wieder verkaufen. Lege es einfach wieder da hin, wo du es her genommen hast.
 //TODO Translate [Reference] 'Tip: Merchants sell new clothes. Change clothes at any wardrobe!'
-staxel.nightTransition.Line19=
+staxel.nightTransition.Line19=Tipp: Händler verkaufen dir neue Kleidungen. Du kannst deine Kleidung an jedem Kleiderschrank wechseln!
 //TODO Translate [Reference] 'Tip: Talk to Riah if you want to try fishing!'
-staxel.nightTransition.Line20=
+staxel.nightTransition.Line20=Tipp: Wenn du das Angeln ausprobieren möchtest, dann sprich mal mit Riah!
 //TODO Translate [Reference] 'Tip: Use the whistle to have your pet do tricks!'
-staxel.nightTransition.Line21=
+staxel.nightTransition.Line21=Tipp: Mit der Pfeife kann dein Haustier einige Tricks machen!
 //TODO Translate [Reference] 'Tip: Make sure to pet your animals every day to keep them happy'
-staxel.nightTransition.Line22=
+staxel.nightTransition.Line22=Tipp: Denke daran deine Tiere jeden Tag zu streicheln, damit sie glücklich bleiben.
 //TODO Translate [Reference] 'Tip: Placing seeds and picking up items can be repeated by holding down the button'
-staxel.nightTransition.Line23=
+staxel.nightTransition.Line23=Tipp: Beschleunige das pflanzen von Samen und aufheben von Gegenständen, indem du die Taste dafür gedrückt hälst.
 //TODO Translate [Reference] 'Next'
-staxel.nightTransition.next=
+staxel.nightTransition.next=Weiter
 //[Reference] 'Press {0-key} to continue...'
 staxel.nightTransition.PressToContinue=Weiter mit {0-key}
 //TODO Translate [Reference] 'Prev'
-staxel.nightTransition.prev=
+staxel.nightTransition.prev=Zurück
 //[Reference] 'This tile has already been tilled!'
 staxel.notifications.AlreadyHoed=Diese Fliese wurde bereits umgegraben!
 //[Reference] 'You can't break this tile.'
